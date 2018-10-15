@@ -18,7 +18,7 @@ BEGIN WRITING HERE
 Goal 2: Gaining good grades by focusing on school work and academics and studying everyday 
 
 Rubric:
-- 4: High enough grades where I do not worry so much about school and focus more on extracurriculars
+- 4: High enough grades where I do not worry so much about school and focus more on extracurriculars!
 - 3: Above average grades where I can focus on extracurriculars but if I ever have assessments, I focus primarily on that.
 - 2: Average grades that I am not too worried about getting up but am still putting most of my time into
 - 1: Below my expectation grades that I will skip all extracurriculars for until they are at my desired grade.

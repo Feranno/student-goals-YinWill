@@ -19,7 +19,7 @@ BEGIN WRITING HERE
 Goal 1: Doing well in extracurriculars by practicing everyday and slowly improving until competition dates. 
 
 Rubric:
-- 4: Getting a high enough place in prestigious competitions to create a name for myself and be known as skilled in my extracurricular; practicing every single day for that activity
+- 4: Getting a high enough place in prestigious competitions to create a name for myself and be known as skilled in my extracurricular; practicing every single day for that activity!
 - 3: Doing well in extracurriculars but not putting as much time as I want to 
 - 2: An average competitor in my extracurriculars with an average skill level compared to others 
 - 1: Low skill level, the joke of the extracurricular; no experience or prestige.
