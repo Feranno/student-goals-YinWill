@@ -1,7 +1,6 @@
-Name:
-Period:
-School year: 20__ - 20__
-
+Name: William Yin
+Period: 2
+School year: 2018 - 2021
 
 Directions:
 1. We're going to use this text file to document your goals
@@ -16,6 +15,6 @@ Directions:
 
 BEGIN WRITING BELOW
 
-Goal 1:
-Goal 2:
-Partner:
+Goal 1: Gaining good grades by focusing on school work and academics and studying everyday 
+Goal 2: Doing well in extracurriculars by practicing everyday and slowly improving until competition dates. 
+Partner:Feranno Liu

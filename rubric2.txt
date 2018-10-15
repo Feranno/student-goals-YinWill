@@ -1,7 +1,6 @@
-Name:
-Period:
-School year: 20__ - 20__
-
+Name: William Yin
+Period: 2
+School year: 2018 - 2021
 
 Directions:
 1. We're going to make a rubric for your goal
@@ -16,12 +15,12 @@ Directions:
 
 BEGIN WRITING HERE
 
-Goal 2: COPY AND PASTE GOAL
+Goal 2: Gaining good grades by focusing on school work and academics and studying everyday 
 
 Rubric:
-- 4:
-- 3:
-- 2:
-- 1:
+- 4: High enough grades where I do not worry so much about school and focus more on extracurriculars
+- 3: Above average grades where I can focus on extracurriculars but if I ever have assessments, I focus primarily on that.
+- 2: Average grades that I am not too worried about getting up but am still putting most of my time into
+- 1: Below my expectation grades that I will skip all extracurriculars for until they are at my desired grade.
 
 
